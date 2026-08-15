@@ -1,0 +1,4 @@
+0 OK_Good
+1 Defect_Missing
+2 Defect_High
+3 Background_Empty
